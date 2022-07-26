@@ -2,8 +2,6 @@
 
 <h4>The aim of the project is to analyze the dataset and create an ML model that would predict the fare for the flight. We have used Python Libraries for data analysis and model creation (backend) and HTML and CSS for creating Web UI for the project.</h4>
 
-<h4>You can see and use our project live on : https://flight-fare-prediction2115.herokuapp.com/</h4>
-
 <br>
 
 <h1>Content</h1>
