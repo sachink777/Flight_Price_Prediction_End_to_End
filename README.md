@@ -1,4 +1,4 @@
-# Flight_Price_Prediction_End_to_End
+# Flight_Price_Prediction_End_to_End_Project
 
 <h1>Flight-Fare-Prediction</h1>
 
